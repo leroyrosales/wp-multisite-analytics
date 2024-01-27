@@ -1,4 +1,4 @@
-# UTexas Multisite Analytics
+# WP Multisite Analytics
 
 A plugin for having one GTM instance for all sites and subsites in a multisite environment.
 
